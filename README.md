@@ -21,7 +21,7 @@ Path Validation: The reconstructed path is evaluated against the ground truth, c
 
 ### Training the Model
 1. The code contains capabilities to prepare the training and test data in the expected format
-2. Formatted training data can be found at .
+2. Formatted training data can be found at [Kaggle](https://www.kaggle.com/datasets/kunuki/belief-space-planning-data).
 3. Run the training script to start training the UNet model.
    ```bash
    python network.py
